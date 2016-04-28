@@ -1,1 +1,3 @@
 TO jest szkolenie z gita
+bla bla bla
+test
