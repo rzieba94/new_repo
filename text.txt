@@ -1,3 +1,5 @@
 TO jest szkolenie z gita
 bla bla bla
 test
+cos wpisuje
+cos co jest nowe
